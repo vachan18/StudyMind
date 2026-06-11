@@ -1,5 +1,4 @@
-
-  StudyMind Pro — AI Learning Coach
+StudyMind Pro — AI Learning Coach
   README
 
 
