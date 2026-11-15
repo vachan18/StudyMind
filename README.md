@@ -9,6 +9,7 @@
   **AI-Powered Personalized Learning Platform & Study Companion**  
   *Built for the **AI Product Buildathon | Product Space***
 
+  [![StudyMind CI](https://github.com/vachan18/StudyMind/actions/workflows/ci.yml/badge.svg)](https://github.com/vachan18/StudyMind/actions/workflows/ci.yml)
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-studymindpro.netlify.app-orange?style=for-the-badge&logo=netlify)](https://studymindpro.netlify.app/)
   [![GitHub License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
   [![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)

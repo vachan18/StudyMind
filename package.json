@@ -1,0 +1,17 @@
+{
+  "name": "studymind-pro",
+  "version": "1.0.0",
+  "description": "AI-Powered Personalized Learning Platform & Study Companion",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "ai",
+    "education",
+    "studymind",
+    "react",
+    "learning"
+  ],
+  "author": "Vachan U S",
+  "license": "MIT"
+}
